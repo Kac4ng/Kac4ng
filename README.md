@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kac4ng
+- 👋 Hi, Shukri Hanafi
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning spreadsheets, SQL, python and visualization
 - 💞️ I’m looking to collaborate on data analysis
